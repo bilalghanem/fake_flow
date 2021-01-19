@@ -1,6 +1,6 @@
 The is the code of the system proposed in the paper:
 
-# FakeFlow: Fake News Detection by Modeling the Flow of Affective Information
+# # FakeFlow: Fake News Detection by Modeling the Flow of Affective Information
 
 
 
