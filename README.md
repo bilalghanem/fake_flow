@@ -1,3 +1,5 @@
+***Note: If you need the full corpus (with the tweets text), please fill this form: [MultiSourceFake data](https://forms.gle/dajtLs5HeArcxnWK7)***
+
 The is the code of the system proposed in the paper:
 
 ## FakeFlow: Fake News Detection by Modeling the Flow of Affective Information
